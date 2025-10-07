@@ -1,0 +1,4 @@
+# Placeholder development config for local bot-trading runs.
+version: dev
+mode: paper
+broker: mock
